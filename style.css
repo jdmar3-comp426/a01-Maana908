@@ -49,3 +49,19 @@ li {
    border: 3px solid black;
    background-color:#FFFFFF;
 }
+
+body p {
+    background-color: lightblue;
+}
+
+.krab-img {
+    height: 350px;
+}
+
+.squid-img {
+    height: 350px;
+}
+
+.sponge-img {
+    height: 350px;
+}
