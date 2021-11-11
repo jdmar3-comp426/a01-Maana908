@@ -10,6 +10,10 @@
     font-family:'Verdana';
 }
 
+#largest-title {
+    color:red;
+}
+
 .subtitle {
     color:darkblue;
     font-size: 15px;
