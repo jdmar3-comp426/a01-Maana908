@@ -1,0 +1,67 @@
+* {
+    font-family:'Cambria';
+    font-size: 18px;
+    background-color:#fffacd;
+}
+
+.main-title {
+    color:cornflowerblue;
+    font-size: 30px;
+    font-family:'Verdana';
+}
+
+#largest-title {
+    color:red;
+}
+
+.subtitle {
+    color:darkblue;
+    font-size: 15px;
+    font-family:'Times New Roman';
+}
+
+p {
+    font-family:'Courier New';
+    border: 3px solid black;
+}
+
+h5:hover {
+    color:darkturquoise;
+}
+
+li {
+    color:forestgreen;
+}
+
+.employees:hover {
+    color:darkturquoise;
+}
+
+.employees {
+    color:indigo;
+}
+
+#img {
+    height: 400px;
+}
+
+.employees {
+   border: 3px solid black;
+   background-color:#FFFFFF;
+}
+
+body p {
+    background-color: lightblue;
+}
+
+.krab-img {
+    height: 350px;
+}
+
+.squid-img {
+    height: 350px;
+}
+
+.sponge-img {
+    height: 350px;
+}
